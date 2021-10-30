@@ -7,4 +7,4 @@ Q2: Modify the provided sorting code so that it is able to sort arrays of object
 
 Q3: Lambda expression implementation of comparators.
 
-Q4: Make sensible use of parallel computing (using multithreading) in the body of method sort(int low, int n) see q4 SortingAlg.java
+Q4: Make sensible use of parallel computing (using multithreading) in the body of method sort(int low, int n).
